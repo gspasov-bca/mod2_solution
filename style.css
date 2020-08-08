@@ -17,7 +17,7 @@ h2 {
     text-align: right;
     background-color: aquamarine;
     color: black;
-    border:1px solid gray ; 
+    border:1px solid black ; 
     width: 20%;
     margin-left: 80%;
     margin-top: 0;
@@ -26,9 +26,12 @@ h2 {
 
 .verd{
   background-color: greenyellow;
+  border:1px solid black;
   margin:0;
   padding: 0;
 }
+
+
 section{
   
   padding: 10px;
